@@ -10,20 +10,20 @@ Git BASH Glossary:
 ---
 + (Should ALWAYS be in lower-case.)
 
-+ PWD
++ pwd
 	* i.e. This displays the Working Directory.
 
-+ MKDIR "FolderName"
++ mkdir "FolderName"
 	* i.e. This will create a new folder with this name (AVOID using spaces).
 
-+ GIT INNIT
++ git innit
 	* i.e. This will make a folder into a REPOSITORY.
 	
-- TOUCH "FileName.FileType"
+- touch "FileName.FileType"
 	* i.e. This will create a FileType within a Directory.
 	
-+ GIT STATUS
++ git status
 	* i.e. This will display all changes made during current session.
 	
-+ GIT ADD FileName
++ git add FileName
 	* i.e. This will add this file to the STAGING area.
