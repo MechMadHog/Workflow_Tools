@@ -9,7 +9,7 @@ Git also allows COLLABORATION, as it has FEATURE BRANCHES.
 Git Glossary:
 ---
 
-+ REPO (Repository):
++ REPO / Repository:
 	* i.e. A Project's Files.
 
 + Working Directory:
@@ -18,7 +18,7 @@ Git Glossary:
 + Commit:
 	* i.e. This will save any selected changes.
 	
-- Staging:
++ Staging:
 	* i.e. This is what is getting saved.
 	
 + Push:
