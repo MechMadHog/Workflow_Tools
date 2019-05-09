@@ -1,7 +1,7 @@
 # Git BASH Glossary: [CONTINUED]
 ---
 
-+ (Should ALWAYS be in lower-case.)
++ (This should ALWAYS be in lower-case.)
 
 + git commit -m
 	* i.e. This adds a custom message the files WITHIN the staging area.
@@ -28,5 +28,6 @@
 	* i.e. This will add a custom message about the update.
 
 # Final Git BASH Command:
+---
 + git push origin master
 	* i.e. This will COMMIT all final changes and UPDATE the GitHub repository..
